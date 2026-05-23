@@ -126,5 +126,5 @@ The RESTful API is strictly typed and protected via Bearer Tokens.
 
 <div align="center">
   Designed and built by <b>Kiran Latwade</b>. <br/>
-  <a href="https://linkedin.com/in/kiran-latwade-b95854397">LinkedIn</a> · <a href="#">Portfolio</a>
+  <a href="https://linkedin.com/in/kiran-latwade-aimpoint">LinkedIn</a> · <a href="https://aimpoint-portfolio.netlify.app">Portfolio</a>
 </div>
