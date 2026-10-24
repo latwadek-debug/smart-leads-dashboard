@@ -4,7 +4,7 @@
 
 ### Production-Grade Full-Stack CRM with TypeScript
 
-A professional leads management dashboard demonstrating **senior-level engineering practices** — featuring JWT authentication, role-based access control, server-side pagination, Zustand state management, Docker deployment, and a glassmorphism dark UI.
+A professional leads management dashboard demonstrating **production-style engineering practices** — featuring JWT authentication, role-based access control, server-side pagination, Zustand state management, Docker deployment, and a glassmorphism dark UI.
 
 **Full MERN Stack · TypeScript Across the Board · Docker-Ready**
 
@@ -15,7 +15,7 @@ A professional leads management dashboard demonstrating **senior-level engineeri
 [![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
-[💼 LinkedIn](https://www.linkedin.com/in/kiran-latwade-aimpoint) · [🐙 GitHub](https://github.com/latwadek-debug)
+[🔗 Live Demo](https://smart-leads-dashboard-ashy.vercel.app) · [💼 LinkedIn](https://www.linkedin.com/in/kiran-latwade-aimpoint) · [🐙 GitHub](https://github.com/latwadek-debug)
 
 </div>
 
